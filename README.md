@@ -3,4 +3,8 @@ This repo (xmlJsonTest) was automatically created on 05 January 2016 10:49:07 GM
 for more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 you can see [library and dependency information here](dependencies.md)
 
-Now update manually with details of this project - this skeleton file is committed only when there is no README.md in the repo.
+This is a tester for the apps script webapp api that can convert between json and xml in both directions. 
+
+For details see 
+
+[Using an Apps Script webapp for XML/JSON conversion](http://ramblings.mcpher.com/Home/excelquirks/gassnips/xmljsonapi "desktop liberation")
